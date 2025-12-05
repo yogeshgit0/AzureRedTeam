@@ -1,5 +1,5 @@
-# CARTP-cheatsheet
-Azure AD cheatsheet
+# Azure Red Team - cheatsheet
+
 
 # Index
 * [General](#General)
