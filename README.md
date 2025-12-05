@@ -1,4 +1,4 @@
-# Azure Red Team - cheatsheet
+# Azure Red Team - Cheatsheet
 
 
 ## Index
