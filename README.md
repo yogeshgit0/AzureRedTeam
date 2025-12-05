@@ -1,7 +1,7 @@
 # Azure Red Team - cheatsheet
 
 
-# Index
+## Index
 * [General](#General)
 * [Recon \ OSINT](recon.md)
 * [Initial access attacks](initial-access-attacks.md)
@@ -10,7 +10,7 @@
 * [Cloud <-> On-Prem - Lateral Movement](Cloud-OnPrem-lateral-movement.md)
 * [Persistence](persistence.md)
 
-# General
+## General
 - List of Microsoft portals https://msportals.io/
 - Great resources
   - https://pentestbook.six2dez.com/enumeration/cloud/azure
@@ -44,7 +44,7 @@ $creds = New-Object System.Management.Automation.PSCredential('<USERNAME>', $pas
 Get-Childitem -Path C:\ -Force -Include <FILENAME OR WORD TO SEARCH> -Recurse -ErrorAction SilentlyContinue
 ```
 
-## PSSession
+### PSSession
 #### Save pssession in variable
 ```
 $sess = New-PSSession -Credential $creds -ComputerName <IP>
