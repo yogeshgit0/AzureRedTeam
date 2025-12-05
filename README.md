@@ -1,5 +1,5 @@
 # CARTP-cheatsheet
-Azure AD cheatsheet for the CARTP course
+Azure AD cheatsheet
 
 # Index
 * [General](#General)
